@@ -1,7 +1,3 @@
-document.getElementById("animeButton").addEventListener("click", function() {
-    window.open("https://aniwave.to/home", "_blank");
-  })
-
 const countries = [
     'Albania',
     'Bolivia',
