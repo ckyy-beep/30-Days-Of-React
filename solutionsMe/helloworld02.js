@@ -30,5 +30,8 @@ webTechs.splice(middleIndex, webTechs.length % 2 === 0 ? 2 : 1)
 
 console.log(webTechs)
 
+webTechs.splice(0, webTechs.length)
+console.log(webTechs)
+
 
  
